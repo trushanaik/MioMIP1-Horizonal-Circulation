@@ -1,1 +1,1 @@
-This repository contains the Python script that reproduces the figures from the paper 'Miocene Ocean Gyre Circulation and Gateway Transports - MioMIP1 Ocean Intercomparison' (in press). The dataset and the DOIs of the paper will be available upon publication.
+This repository contains the Python script that reproduces the figures from the paper 'Miocene Ocean Gyre Circulation and Gateway Transports - MioMIP1 Ocean Intercomparison' (in press). The DOIs of the paper and dataset will be available upon publication.
